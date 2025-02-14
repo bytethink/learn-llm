@@ -1,29 +1,29 @@
+ [English](README.md), [中文](README_zh.md)
 # Learn-LLM
+## Project Overview
+Welcome to Learn-LLM, an open-source project dedicated to helping developers, researchers, and anyone interested in Large Language Models (LLMs) learn and understand this complex technology. This project gathers comprehensive resources ranging from foundational theories to advanced applications, providing a clear learning path for learners at all levels.
 
-## 项目简介
-Learn-LLM 是一个致力于帮助开发者、研究者以及对大型语言模型（LLM）感兴趣的任何人学习和理解这一复杂技术的开源项目。本项目汇集了从基础理论到高级应用的全方位资源，旨在为不同层次的学习者提供一个清晰的学习路径。
+## Key Contents
+- **Basics**: Covers fundamental knowledge in machine learning, deep learning, and natural language processing.
+- **Advanced Tutorials**: Delves into the architectures, training methods, and optimization techniques of large language models.
+- **Practical Cases**: Demonstrates real-world problem-solving using existing LLMs through practical examples.
+- **Tools and Frameworks**: Introduces various tools and frameworks used for building and deploying large language models.
 
-## 主要内容
-- **基础知识**：涵盖机器学习、深度学习以及自然语言处理的基础知识。
-- **进阶教程**：深入探讨大型语言模型的架构、训练方法及优化技巧。
-- **实战案例**：通过实际案例展示如何使用现有的大型语言模型解决现实世界的问题。
-- **工具与框架**：介绍构建和部署大型语言模型所用到的各种工具和框架。
+## Target Audience
+This project is suitable for developers, data scientists, AI enthusiasts, and anyone looking to deepen their understanding of large language models or enter this field.
 
-## 目标受众
-本项目适合想要深入了解大型语言模型的开发者、数据科学家、AI爱好者以及任何有兴趣了解或进入这个领域的个人。
+## How to Contribute
+We welcome contributions in many forms, including but not limited to:
+- Submitting new tutorials or improvement suggestions
+- Reporting errors or inaccuracies
+- Adding new practical cases or projects
+- Translating existing content into other languages
 
-## 如何贡献
-我们欢迎任何形式的贡献，包括但不限于：
-- 提交新教程或改进建议
-- 报告错误或不准确之处
-- 增加新的实战案例或项目
-- 翻译现有内容到其他语言
+Please refer to our [Contribution Guide](./CONTRIBUTING.md) for more details.
 
-请查看[贡献指南](./CONTRIBUTING.md)了解更多详情。
-
-## 许可
-本项目采用 [MIT License](./LICENSE) 开源协议。
+## License
+This project is released under the [MIT License](./LICENSE).
 
 ---
 
-希望通过这个项目，我们可以一起构建一个强大且全面的资源库，共同推动大型语言模型领域的发展！
+By contributing to this project, we hope to build a robust and comprehensive resource library together, advancing the development and understanding of large language models!
